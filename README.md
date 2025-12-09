@@ -22,9 +22,8 @@ for uTFU-Miner+, uATTFUM+, uFUMT+, TFUN
 
 [Original Data Ratio(%)] [The Number of insertion] [Output File] [Fuzzy Function Type (1-4) ]
 ```
-```bash
 for ITFUM
-
+```bash
 [0]          [1]           [2]                      [3]           
 
 [Executable] [Thr_u(%)]  [Utility Data File Path] [Transaction Data File Path]
